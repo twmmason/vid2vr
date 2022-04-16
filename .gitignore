@@ -1,0 +1,13 @@
+
+*.pyc
+AdaBins/
+data/frames/
+data/input/
+*.Identifier
+env
+MiDaS/
+pytorch3d/
+pytorch3d-lite/
+pretrained/AdaBins_nyu.pt
+models/dpt_large-midas-2f21e586.pt
+data/output/60fps-stitched.mp4
